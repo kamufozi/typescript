@@ -11,4 +11,7 @@ function calculate(income) {
     return 0;
 }
 calculate(500);
+let food = 'cigarettes';
+if ((food || 'umuceri') === 'chips')
+    console.log('default_value_magic');
 //# sourceMappingURL=index.js.map
