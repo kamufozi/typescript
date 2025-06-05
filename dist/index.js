@@ -1,5 +1,5 @@
 "use strict";
-let sales = 123_456_654;
+let sales = 123456654;
 let course = 'TypeScript';
 let is_publiched = true;
 console.log(sales);
