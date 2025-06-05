@@ -8,5 +8,9 @@ let myArr: readonly string[] =['jacob']
 console.log(myArr)
 
 let tupple:readonly [string,number,boolean]=['keke',99,true];
+let essay: [string,number];
 
+const graph: [number, number] = [55.2, 41.3];
+const [x, y] = graph;
+console.log([x,y],graph)
 
