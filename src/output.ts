@@ -14,3 +14,9 @@ const graph: [number, number] = [55.2, 41.3];
 const [x, y] = graph;
 console.log([x,y],graph)
 
+let obj:{id: number,name:string,age?:number}={
+    id:12,
+    name:'james',
+    age:54,
+    height:'6two'
+}
