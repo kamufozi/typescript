@@ -18,5 +18,5 @@ let obj:{id: number,name:string,age?:number}={
     id:12,
     name:'james',
     age:54,
-    height:'6two'
+    // height:'6two'
 }

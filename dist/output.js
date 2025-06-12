@@ -8,4 +8,9 @@ let essay;
 const graph = [55.2, 41.3];
 const [x, y] = graph;
 console.log([x, y], graph);
+let obj = {
+    id: 12,
+    name: 'james',
+    age: 54,
+};
 //# sourceMappingURL=output.js.map
